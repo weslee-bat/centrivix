@@ -306,7 +306,7 @@ const App: React.FC = () => {
       <nav className="navbar">
         <div className="logo" onClick={() => window.location.reload()}>
           <FileText className="logo-icon" />
-          <span>Antigravity PDF</span>
+          <span>CentrivixPDF</span>
         </div>
         <div className="mode-switcher glass-card">
           <button
@@ -567,7 +567,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="footer">
-        <p>© 2026 Antigravity PDF Compressor. No files are uploaded to our servers.</p>
+        <p>© 2026 CentrivixPDF. No files are uploaded to our servers.</p>
       </footer>
     </div>
   );
